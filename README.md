@@ -29,6 +29,7 @@ Arquivo index.html e estilos.css foram validados pela W3C e os ícones das redes
 </p>
 
 #####Markdown editor: pandao.github.io/
+
 #####Provedor de imagem: imgur.com
 
 ![index.html](https://i.imgur.com/XI9bIol.png "index.html")![bottom e footer da página](https://i.imgur.com/PoyZKC0.png "bottom e footer da página")![Full Screen](https://i.imgur.com/gAXbbpg.png "Full Screen")![Full Screen Footer e Bottom](https://i.imgur.com/tSRmfV1.png "Full Screen Footer e Bottom")
